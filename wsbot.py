@@ -70,8 +70,8 @@ if DEBUG and DEBUG_LEVEL >= 2:
 else:
         REQUESTS_CONFIG = {}
 
-USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3)'
-             ' AppleWebKit/536.6 (KHTML, like Gecko)'
+USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3)' \
+             ' AppleWebKit/536.6 (KHTML, like Gecko)' \
              ' Chrome/20.0.1096.1 Safari/536.6'
 
 WSQD = 'http://wordsquared.com'
