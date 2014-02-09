@@ -1,0 +1,4 @@
+wordsquared-bot
+===============
+
+Wordsquared Bot
