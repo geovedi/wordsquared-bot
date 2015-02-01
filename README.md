@@ -24,3 +24,7 @@ Who doesn't like screenshots?!
 
 ![](https://oddfactor.files.wordpress.com/2012/02/wordsquared_03.png)
 
+**Achievements**
+
+![](https://oddfactor.files.wordpress.com/2012/02/wordsquared_04.png)
+
