@@ -7,3 +7,20 @@ In the beginning, I decided not to release this program as the game was quite ne
 Very unfortunate. Wordsquared was a great game. One of the few online games that I actually played.
 
 Thank you, Massively Fun!
+
+## Screenshots
+
+Who doesn't like screenshots?!
+
+**My last Wordsquared "island"**
+
+![](https://oddfactor.files.wordpress.com/2012/02/wordsquared_01.png)
+
+**North America?**
+
+![](https://oddfactor.files.wordpress.com/2012/02/wordsquared_02.png)
+
+**Europe?**
+
+![](https://oddfactor.files.wordpress.com/2012/02/wordsquared_03.png)
+
